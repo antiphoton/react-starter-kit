@@ -19,6 +19,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # Editors and IDEs
+.*.swo
+.*.swp
 .idea
 .vscode/*
 !.vscode/settings.json
